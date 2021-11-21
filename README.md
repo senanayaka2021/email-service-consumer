@@ -36,6 +36,8 @@ $ npm install
 
 ## Running the app
 
+# docker-compose up
+<!-- 
 ```bash
 # development
 $ npm run start
@@ -45,7 +47,7 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
-```
+``` -->
 
 ## Test
 
